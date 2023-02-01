@@ -12,10 +12,6 @@ public class OX {
             ans[i] = sc.next();
 
             // 문자열마다 합을 구하기 위해 초기화
-<<<<<<< HEAD
-            
-=======
->>>>>>> origin/master
             int cnt = 0;
             int sum = 0;
 
@@ -29,6 +25,7 @@ public class OX {
                     cnt = 0;
                 }
             }
+            
             System.out.println(sum);
         }
     }
