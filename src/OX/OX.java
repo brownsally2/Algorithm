@@ -25,7 +25,7 @@ public class OX {
                     cnt = 0;
                 }
             }
-            
+
             System.out.println(sum);
         }
     }
