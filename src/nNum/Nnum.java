@@ -1,3 +1,5 @@
+package nNum;
+
 import java.util.Scanner;
 
 public class Nnum {
